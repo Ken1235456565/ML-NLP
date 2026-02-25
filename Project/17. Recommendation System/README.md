@@ -331,13 +331,3 @@ AB测试是一种很常用的在线评测算法的实验方法。它通过一定
 1. [推荐系统实践--项亮](https://www.lanzous.com/i6362bi)
 2. [推荐系统与深度学习](https://www.jianguoyun.com/p/DS32RkwQj4G5BxjCte4B)
 3. [美团机器学习实践](https://www.jianguoyun.com/p/DQYaGLAQj4G5BxjFte4B)
-
-
-
-------
-
-> 作者:[@mantchs](https://github.com/NLP-LOVE/ML-NLP)
->
-> GitHub:[https://github.com/NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
->
-> 欢迎大家加入讨论！共同完善此项目！群号:【541954936】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=863f915b9178560bd32ca07cd090a7d9e6f5f90fcff5667489697b1621cecdb3"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP面试学习群" title="NLP面试学习群"></a>
