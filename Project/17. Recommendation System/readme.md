@@ -1,10 +1,10 @@
-# 🎵 Music Recommender System
+# Music Recommender System
 
 A full-stack personalized music recommendation system built on the [Million Song Dataset (MSD)](http://millionsongdataset.com/), covering the complete pipeline from data ingestion to online serving — including multi-source recall, learning-to-rank, cold start handling, and A/B testing.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
